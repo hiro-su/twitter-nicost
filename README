@@ -1,0 +1,8 @@
+# 設定
+## php.iniに以下を追加
+extension=php_openssl.dll
+
+## config.iniにTwitterアカウントを設定
+[login]
+id = 'your twitter account'
+password = 'your twitter password'
